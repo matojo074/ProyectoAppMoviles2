@@ -1,2 +1,8 @@
 # ProyectoAppMoviles2
-Se lograra salvar el semestre? lo descubriremos 
+
+Integrantes: 
+
+Cevallos Mateo
+Sáchez Anthony 
+Valencia Sebastian 
+Valenzuela Michaelle 
